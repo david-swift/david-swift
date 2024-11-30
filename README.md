@@ -2,7 +2,7 @@
 
 **Give Up GitHub**
 
-My personal projects are not on GitHub anymore. They are [on my Gitea instance](https://git.aparoksha.dev).
+My personal projects are not on GitHub anymore. They are [on my Gitea instance](https://git.aparoksha.dev/david-swift).
 
 Here's why: [Give Up GitHub](https://sfconservancy.org/GiveUpGitHub/)
 
